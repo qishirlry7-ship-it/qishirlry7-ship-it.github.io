@@ -1,6 +1,6 @@
 ## Welcome 
 
-My name is Qin Xinyue.<br>
+My name is Shirley.<br>
 I am an IBI1 student at the Zhejiang University - University of Edinburgh (ZJE) Institute.
 I am trying my best to bulid this site.
 
